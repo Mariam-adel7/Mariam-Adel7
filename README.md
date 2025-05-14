@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 
-- 💬 Ask me about **C++, Python and Front-End.**
+- 💬 Ask me about **C++, Python and Front-End Developement.**
 
 - 📫 How to reach me **mariamadelabass@gmail.com**
 
